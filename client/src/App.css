@@ -1,0 +1,116 @@
+.center-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* padding */
+.p-20{
+  padding: 20px;
+}
+
+/* display */
+.d-flex{
+  display:flex;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+
+.justify-around{
+  justify-content: space-around;
+}
+.justify-center{
+  justify-content: center;
+}
+
+/* gap */
+.gap-10{
+  gap: 200px;
+}
+
+/* height */
+.height-100{
+  height:100vh
+}
+
+/* font-size */
+.font-size-18{
+  font-size: 18px;
+}
+.font-size-20{
+  font-size: 20px;
+}
+.font-size-25{
+  font-size:25px
+}
+
+/* font-weight */
+.font-weight-600{
+  font-weight:600
+}
+
+/* margin */
+.mt-5{
+  margin-top: 5px;
+}
+.mt-20{
+  margin-top: 20px;
+}
+
+/* color */
+.color-red{
+  color:red
+}
+.color-blue{
+  color:blue
+}
+.color-green{
+  color:green
+}
+
+/* pointer */
+.pointer{
+  cursor: pointer;
+}
+
+/* border */
+.border-radius-20{
+  border-radius: 20px;
+}
+
+/* text-align */
+.text-align-center{
+  text-align: center;
+}
+
+.inputStyle{
+ height: 30px;
+ width: 100%;
+ border:1px solid black;
+ border-radius: 5px;
+}
+
+.button-style{
+  background-color: green;
+  color:white;
+  padding: 10px;
+  border:none;
+  outline:none;
+  border-radius:5px;
+}
+
+.logout-style{
+  background-color: red;
+  color:white;
+  padding: 10px;
+  border:none;
+  outline:none;
+  border-radius:5px;
+}
+
+.dashboard-card{
+  background-color: grey;
+  padding:15px 30px 20px;
+}
+
